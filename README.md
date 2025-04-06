@@ -1,5 +1,5 @@
 # LibreNova-License-v1.1
-The Open Infra Foundation License for Open Source software
+The LibreNova Foundation License for Open Source software
 
 Start license:
 --
